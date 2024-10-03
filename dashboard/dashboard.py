@@ -10,8 +10,8 @@ st.set_page_config(page_title="Dashboard Analisis Bike Sharing", layout="wide")
 # Load data
 @st.cache_data
 def load_data():
-    day_df = pd.read_csv("day_clean.csv")
-    hour_df = pd.read_csv("hour_clean.csv")
+    day_df = pd.read_csv("dashboard/day_clean.csv")
+    hour_df = pd.read_csv("dashboard/hour_clean.csv")
     return day_df, hour_df
 
 day_df, hour_df = load_data()
