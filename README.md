@@ -1,12 +1,28 @@
 # 🚴‍♂️ Bike-Sharing Dashboard 🚴‍♀️
 
-Welcome to the **Bike-Sharing Dashboard**! This interactive Streamlit app allows you to explore bike-sharing data, uncover trends, and visualize usage patterns in an engaging way.
+This dashboard is designed to analyze and visualize bike rental data using the Bike Sharing dataset. The goal of this project is to provide insights into bike usage patterns based on various factors, including weather conditions, time of day, day of week, and seasonal comparisons.
 
-## 📊 Features
+## Key Features 🌟
 
-- **Trend Analysis**: Dive deep into bike usage trends over different periods.
-- **Comparison Tools**: Compare bike usage across various categories with intuitive visuals.
-- **Interactive Exploration**: Use interactive widgets to customize your analysis and gain insights quickly.
+- ```Weather Influence```: Shows how weather conditions affect bike rentals.
+- ```Hour of Day```: Visualize bike usage based on time of day.
+- ```Day of Week Trend```: Shows bike rental patterns on specific days.
+- ```Seasonal Comparison```: Comparative analysis of bike usage across different seasons.
+
+## Datasets 📊
+
+This project uses two main datasets:
+- ```day_clean.csv```: A dataset containing daily bike rental information.
+- ```hour_clean.csv```: A dataset containing hourly bike rental information.
+
+These datasets have been cleaned and processed to facilitate analysis.
+
+## Technologies Used 🛠️
+
+- ```Python```: A programming language used for data analysis and dashboard creation.
+- ```Streamlit```: A library for building interactive web applications with Python.
+- ```Pandas```: A library for data manipulation and analysis.
+- ```Matplotlib and Seaborn```: Libraries for data visualization.
 
 ## 📥 Installation
 
@@ -48,13 +64,4 @@ Open a pull request
 
 ## 📝 License
 This project is licensed under the MIT License. See the LICENSE file for details.
-
-## 🎉 Acknowledgments
-
-Streamlit: For providing a fantastic framework to create beautiful web applications.
-Pandas: For powerful data manipulation and analysis.
-You: For exploring the Bike-Sharing Dashboard! Happy analyzing! 🚴‍♂️
-Final Steps
-Copy the entire content into your README.md file.
-Save the changes and commit the file to your repository:
 
