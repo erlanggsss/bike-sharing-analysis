@@ -28,7 +28,7 @@ Make sure you have Python installed (version 3.7 or higher). Then, run:
 pip install -r requirements.txt
 ```
 
-##🚀 Usage
+## 3. Usage
 Once you have everything set up, run the dashboard with the following command:
 
 ``` 
@@ -49,7 +49,7 @@ Open a pull request
 ## 📝 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-##🎉 Acknowledgments
+## 🎉 Acknowledgments
 
 Streamlit: For providing a fantastic framework to create beautiful web applications.
 Pandas: For powerful data manipulation and analysis.
