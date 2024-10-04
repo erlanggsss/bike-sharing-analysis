@@ -13,19 +13,27 @@ Welcome to the **Bike-Sharing Dashboard**! This interactive Streamlit app allows
 To set up the dashboard on your local machine, follow these steps:
 
 ### 1. Clone the Repository
-``` git clone https://github.com/erlanggsss/bike-sharing-analysis.git ```
+```
+git clone https://github.com/erlanggsss/bike-sharing-analysis.git
+```
 
-``` cd bike-sharing-analysis ```
+``` 
+cd bike-sharing-analysis
+```
 
 ### 2. Install Required Packages
 Make sure you have Python installed (version 3.7 or higher). Then, run:
 
-``` pip install -r requirements.txt```
+```
+pip install -r requirements.txt
+```
 
 ##🚀 Usage
 Once you have everything set up, run the dashboard with the following command:
 
-``` streamlit run dashboard/dashboard.py ```
+``` 
+streamlit run dashboard/dashboard.py
+```
 
 You can view your dashboard in your web browser at ```http://localhost:8501```.
 
