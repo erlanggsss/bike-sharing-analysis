@@ -3,7 +3,7 @@
 This dashboard is designed to analyze and visualize bike rental data using the Bike Sharing dataset. The goal of this project is to provide insights into bike usage patterns based on various factors, including weather conditions, time of day, day of week, and seasonal comparisons.
 
 https://bike-sharing-analysis-erlanggs.streamlit.app/
-![Dashboard Demo](assets/dashboard-demo.gif)
+![Dashboard Demo](assets/demo-dash.gif)
 
 ## Key Features 🌟
 
